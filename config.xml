@@ -1,0 +1,11 @@
+<bizapp>
+   <name>com.um-generator.mintcat</name>
+   <type>required</type>
+   <title>Um Generator</title>
+   <version>0.0.0</version>
+   <icon>icon.png</icon>
+   <url>index.html</url>
+   <description>Um...</description>
+   <author>MintCat98</author>
+   <securedPath></securedPath>
+</bizapp>
